@@ -1,0 +1,24 @@
+.form {
+   width: 700px;
+   /* background:
+   radial-gradient(circle farthest-side at 0% 50%,rgb(92, 113, 230) 23.5%,rgba(17, 169, 240, 0) 0)21px 30px,
+   radial-gradient(circle farthest-side at 0% 50%,rgb(159, 252, 255) 24%,rgba(17, 169, 240, 0) 0)19px 30px,
+   linear-gradient(rgb(92, 113, 230) 14%,rgba(17, 169, 240, 0) 0, rgba(17, 169, 240, 0) 85%,rgb(92, 113, 230) 0)0 0,
+   linear-gradient(150deg,rgb(92, 113, 230) 24%,rgb(159, 252, 255) 0,rgb(159, 252, 255) 26%,rgba(17, 169, 240, 0) 0,rgba(17, 169, 240, 0) 74%,rgb(159, 252, 255) 0,rgb(159, 252, 255) 76%,rgb(92, 113, 230) 0)0 0,
+   linear-gradient(30deg,rgb(92, 113, 230) 24%,rgb(159, 252, 255) 0,rgb(159, 252, 255) 26%,rgba(17, 169, 240, 0) 0,rgba(17, 169, 240, 0) 74%,rgb(159, 252, 255) 0,rgb(159, 252, 255) 76%,rgb(92, 113, 230) 0)0 0,
+   linear-gradient(90deg,rgb(159, 252, 255) 2%,rgb(92, 113, 230) 0,rgb(92, 113, 230) 98%,rgb(159, 252, 255) 0%)0 0 rgb(92, 113, 230);
+   background-size: 40px 60px; */
+}
+
+#detect-btn {
+   border: none;
+   border-radius: 15px;
+   margin-left: 10px;
+}
+
+#detect-field {
+   border: none;
+   border-radius: 15px;
+   background-color: rgb(43, 43, 43);
+   color: #fff;
+}
